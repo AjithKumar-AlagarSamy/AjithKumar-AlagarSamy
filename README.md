@@ -1,7 +1,6 @@
-<h2 align="center">Hi 👋, I'm Ajith Kumar</h2>
+<h1 align="center">Hi 👋, I'm Ajith Kumar</h1>
 <h3 align="center">BE Graguate</h3>
 
----
 <h3 align="left">Mail Address:</h3>
 
  **ajithkumar.ainq@gmail.com** <br>
