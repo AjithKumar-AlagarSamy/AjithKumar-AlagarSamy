@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ajith Kumar</h1>
+<h2 align="center">Hi 👋, I'm Ajith Kumar</h2>
 <h3 align="center">BE Graguate</h3>
 
 ---
